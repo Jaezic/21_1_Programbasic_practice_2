@@ -4,7 +4,7 @@
 int main(){
     int i;
     for(i =1; i<=20; i++){
-        printf("%d\t", 1+ (rand() & 6));
+        printf("%d\t", 1+ (rand() & 31));
         if(i%5==0)
             puts("");
     }

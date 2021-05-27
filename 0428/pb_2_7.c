@@ -9,7 +9,7 @@ int main(){
     return 0;
 }
 int Fibo(int num){
-    int n, first = 0, second = 1, next, k;
+    int first = 0, second = 1, next, k;
 
     for(k = 0; k< num; k++){
         if(k<= 1)

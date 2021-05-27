@@ -2,7 +2,7 @@
 
 float tempConvert(char, int);
 int main(){
-    char FC='f';
+    char FC='F';
     int temp = 120;
     float newTemp;
     newTemp = tempConvert(FC, temp);
