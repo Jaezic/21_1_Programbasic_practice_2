@@ -10,5 +10,5 @@ void main(){
 }
 
 int square(int y){
-    return y+y;
+    return y*y;
 }

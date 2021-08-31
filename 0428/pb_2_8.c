@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int add_num(int)
+int add_num(int);
 
 int main(){
     int num;
